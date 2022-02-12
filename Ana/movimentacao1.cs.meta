@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 42bace7f1b44b1b4c99d185da9606802
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coracaoPrefab: {fileID: 1088750826218266, guid: 282cde3e09e53574aadbc2e8dd9c7088,
+      type: 2}
+  - estrelaPrefab: {fileID: 1507103602313158, guid: 5032e07f576eefd4d896741018363a9d,
+      type: 2}
+  - coracaotxt: {instanceID: 0}
+  - estrelatxt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
